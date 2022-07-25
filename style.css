@@ -1,0 +1,11 @@
+.caroBg {
+    background-color: #FCEAE8;
+}
+
+h1 {
+    color: #FF247A;
+}
+
+button {
+    background-image: linear-gradient(40deg, #FF247A, #ff418d);
+}
