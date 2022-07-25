@@ -9,3 +9,15 @@ h1 {
 button {
     background-image: linear-gradient(40deg, #FF247A, #ff418d);
 }
+
+.flashBg {
+    background-image: linear-gradient(90deg, #fd9800, #FFC107);
+}
+
+.flashBg2 {
+    background-image: linear-gradient(90deg, #e01a66, #ff1010);
+}
+
+.flashBg3 {
+    background-image: linear-gradient(90deg, #0D6EFD, #0db9fd);
+}
